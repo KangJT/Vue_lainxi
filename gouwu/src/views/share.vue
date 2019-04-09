@@ -1,0 +1,38 @@
+<template>
+    <div>
+       <main>
+            skdkdcjdk 
+        </main>
+        <elFooter></elFooter>
+    </div>
+</template>
+<script>
+export default {
+    props:{
+
+    },
+    components:{
+
+    },
+    data(){
+        return {
+
+        }
+    },
+    computed:{
+
+    },
+    methods:{
+
+    },
+    created(){
+
+    },
+    mounted(){
+
+    }
+}
+</script>
+<style scoped lang="">
+
+</style>
